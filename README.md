@@ -1,8 +1,8 @@
 # sobre mim
 - 👋 olá meu nome é @analuizafante
 - 👍 meu email de contato é ana.fante@escola.pr.gov.br
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀eu estou interessado em aprender a programar novas linguagens
+- 🌱eu estou aprendendo a programar recentemente a linguagens de JavaScript e Scratch
+-
 
 
